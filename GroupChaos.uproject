@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{54E35884-4827-5D94-12D5-A383A5F00D0F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GroupChaos",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
